@@ -41,6 +41,6 @@ Collection of useful resources and tools for making my life a bit easier
 - [AR.js](https://github.com/jeromeetienne/ar.js) - AR with markers
 
 # Starter Packs 
-- [Blendid](https://github.com/vigetlabs/blendid) - MASSIVE starter pack for Gulp with build in tasks and tools
+- [Blendid](https://github.com/vigetlabs/blendid) - MASSIVE starter pack for Gulp/Yarn with build in tasks and tools
 - [Yeogurt](https://github.com/larsonjj/generator-yeogurt) - starter pack for Gulp 
 - [Yeoman Generator](https://github.com/yeoman/generator-webapp) - simple starter pack for Gulp
