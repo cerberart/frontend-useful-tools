@@ -7,6 +7,7 @@ Collection of useful resources and tools for making my life a bit easier
 - [Editor.md](https://pandao.github.io/editor.md/en.html)
 
 ### Email Templating
+- [Foundation Email](https://github.com/zurb/foundation-emails/) - npm or ruby gem for responsive emails (even OUTLOOK!)
 - [MJML](https://mjml.io/) - framework for making responsive emails 
 - [HEML](https://heml.io/) - open source markup language for building responsive emails
 - [Inbox Inspector](http://www.inboxinspector.com/) - free tool for testing emails
@@ -38,3 +39,8 @@ Collection of useful resources and tools for making my life a bit easier
 ### WEB AR
 - [Argon.js](https://www.argonjs.io/) - ? 
 - [AR.js](https://github.com/jeromeetienne/ar.js) - AR with markers
+
+# Starter Packs 
+- [Blendid](https://github.com/vigetlabs/blendid) - MASSIVE starter pack for Gulp with build in tasks and tools
+- [Yeogurt](https://github.com/larsonjj/generator-yeogurt) - starter pack for Gulp 
+- [Yeoman Generator](https://github.com/yeoman/generator-webapp) - simple starter pack for Gulp
