@@ -7,13 +7,30 @@ Collection of useful resources and tools for making my life a bit easier
 - [Editor.md](https://pandao.github.io/editor.md/en.html)
 
 #### Email Templating
-
 - [MJML](https://mjml.io/) - framework for making responsive emails 
 - [HEML](https://heml.io/) - open source markup language for building responsive emails
 - [Inbox Inspector](http://www.inboxinspector.com/) - free tool for testing emails
 
-#### WEB VR
+### Carousels / Sliders
+- [Swiper](http://idangero.us/swiper/) - powerful with great API documentation pure Javascript plugin for slider
+- [Slick](http://kenwheeler.github.io/slick/) - simple and easy to use jquery pluging for carousels
+- [OwlCarousel](https://owlcarousel2.github.io/OwlCarousel2/) - Jquery plugin for carousels
 
+### 360 degree sliders
+- [Circlr](https://github.com/andrepolischuk/circlr) - pure Javascript plugin for 360 degree sliders
+- [SpriteSpin](https://github.com/giniedp/spritespin) - jquery plugin for 360 degree sliders
+- [ThirtySixty](https://github.com/creativeaura/threesixty-slider) - jquery plugin for 360 degree sliders
+
+
+# Animation
+
+### Scroll Animations
+- [AOS](https://github.com/michalsnik/aos) - simple and easy to use animation on scroll
+- [WOW.js](https://mynameismatthieu.com/WOW/) - similiar to AOS tool, need license for commercial use
+- [Skrollr](https://github.com/Prinzhorn/skrollr) - old but not dead paralax scroll plugin using JS animation
+- [ScrollMagic](http://scrollmagic.io/) - powerful plugin for ur nut cracking scroll animations. it offers more customizability and extendability
+
+#### WEB VR
 - [AFRAME](https://aframe.io/) - A web framework for building virtual reality experiences
 - [Primrose](https://www.primrosevr.com/) - Prototype VR applications in your browser
 - [React VR](https://facebook.github.io/react-vr/) - React VR
