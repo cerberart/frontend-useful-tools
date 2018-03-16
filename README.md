@@ -9,7 +9,8 @@ Collection of useful resources and tools for making my life a bit easier
 #### Email Templating
 
 - [MJML](https://mjml.io/) - framework for making responsive emails 
-- [HEML](https://heml.io/) - open source markup language for building responsive email
+- [HEML](https://heml.io/) - open source markup language for building responsive emails
+- [Inbox Inspector](http://www.inboxinspector.com/) - free tool for testing emails
 
 #### WEB VR
 
