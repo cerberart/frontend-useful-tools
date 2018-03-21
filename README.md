@@ -25,6 +25,9 @@ Collection of useful resources and tools for making my life a bit easier
 
 # Animation
 
+### Page transitions
+- [Animsition](http://git.blivesta.com/animsition/) - simple and easy to use plugin for animations during page transitions
+
 ### Scroll Animations
 - [AOS](https://github.com/michalsnik/aos) - simple and easy to use animation on scroll
 - [WOW.js](https://mynameismatthieu.com/WOW/) - similiar to AOS tool, need license for commercial use
