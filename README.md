@@ -22,6 +22,8 @@ Collection of useful resources and tools for making my life a bit easier
 - [SpriteSpin](https://github.com/giniedp/spritespin) - jquery plugin for 360 degree sliders
 - [ThirtySixty](https://github.com/creativeaura/threesixty-slider) - jquery plugin for 360 degree sliders
 
+### Video plugins
+- [PLYR](https://plyr.io/) - simple HTML5, YouTube and Vimeo player
 
 # Animation
 
