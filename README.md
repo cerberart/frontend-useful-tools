@@ -16,6 +16,7 @@ Collection of useful resources and tools for making my life a bit easier
 - [Swiper](http://idangero.us/swiper/) - powerful with great API documentation pure Javascript plugin for slider
 - [Slick](http://kenwheeler.github.io/slick/) - simple and easy to use jquery pluging for carousels
 - [OwlCarousel](https://owlcarousel2.github.io/OwlCarousel2/) - Jquery plugin for carousels
+- [Scrollify](https://projects.lukehaas.me/scrollify) - jquery plugin for fullpage scroll 
 
 ### 360 degree sliders
 - [Circlr](https://github.com/andrepolischuk/circlr) - pure Javascript plugin for 360 degree sliders
