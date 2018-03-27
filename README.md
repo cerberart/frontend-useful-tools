@@ -28,6 +28,9 @@ Collection of useful resources and tools for making my life a bit easier
 
 # Animation
 
+### Motion graphic
+- [MO.js](http://mojs.io/) - library for creating motion graphic with availability of GUI mo.js editor
+
 ### Page transitions
 - [Animsition](http://git.blivesta.com/animsition/) - simple and easy to use plugin for animations during page transitions
 
