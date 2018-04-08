@@ -29,6 +29,11 @@ Collection of useful resources and tools for making my life a bit easier
 ### Video plugins
 - [PLYR](https://plyr.io/) - simple HTML5, YouTube and Vimeo player
 
+# Mobile
+
+### Tap/Touch handlers
+- [Hammer.js](https://github.com/hammerjs/hammer.js/) - javascript library for multi-touch gestures 
+
 # Animation
 
 ### Motion graphic
