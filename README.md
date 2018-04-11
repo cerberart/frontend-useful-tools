@@ -36,6 +36,9 @@ Collection of useful resources and tools for making my life a bit easier
 
 # Animation
 
+### Animation Frameworks/Libraries
+ - [WebAnimations JS](http://web-animations.github.io) - javascript API for Web Animation features
+
 ### Motion graphic
 - [MO.js](http://mojs.io/) - library for creating motion graphic with availability of GUI mo.js editor
 
