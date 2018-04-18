@@ -6,6 +6,9 @@ Collection of useful resources and tools for making my life a bit easier
 ### Web parser / Amp generator
 - [Mercury](https://mercury.postlight.com/) - api for parse articles/websites and get clean content 
 
+### Clipboard Polyfill
+- [Clipboard polyfill](https://github.com/lgarron/clipboard-polyfill) - polyfill for Promise based async clipboard API
+
 ### .md markup online editor
 - [Editor.md](https://pandao.github.io/editor.md/en.html)
 
