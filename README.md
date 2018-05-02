@@ -13,6 +13,7 @@ Collection of useful resources and tools for making my life a bit easier
 - [Editor.md](https://pandao.github.io/editor.md/en.html)
 
 ### Email Templating
+- [Campaign Monitor](https://www.campaignmonitor.com/css/) - CanIuse for emails (cheatsheet)
 - [Foundation Email](https://github.com/zurb/foundation-emails/) - npm or ruby gem for responsive emails (even OUTLOOK!)
 - [MJML](https://mjml.io/) - framework for making responsive emails 
 - [HEML](https://heml.io/) - open source markup language for building responsive emails
