@@ -33,6 +33,7 @@ Collection of useful resources and tools for making my life a bit easier
 
 ### Images
 - [ImagesLoaded](https://imagesloaded.desandro.com) - callback when all images are loaded, can be used w/ pure Javascript
+- [LazySizes](https://github.com/aFarkas/lazysizes) - high performance and SEO friendly lazy loader for images
 
 ### Videos
 - [PLYR](https://plyr.io/) - simple HTML5, YouTube and Vimeo player
