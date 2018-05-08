@@ -43,6 +43,9 @@ Collection of useful resources and tools for making my life a bit easier
 ### Tap/Touch handlers
 - [Hammer.js](https://github.com/hammerjs/hammer.js/) - javascript library for multi-touch gestures 
 
+# Design
+- [ModularScale](http://www.modularscale.com/?16&px&1.5) - scale to use as font-size ruler
+
 # Animation
 
 ### Animation Frameworks/Libraries
