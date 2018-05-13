@@ -49,6 +49,7 @@ Collection of useful resources and tools for making my life a bit easier
 # Animation
 
 ### Animation Frameworks/Libraries
+ - [Airbnb Lottie](https://github.com/airbnb/lottie-web) - javascript plugin to render Adobe AE graphic into web/native ios/android and react 
  - [WebAnimations JS](http://web-animations.github.io) - javascript API for Web Animation features
  - [GreenSock](https://github.com/greensock/GreenSock-JS/) - GSAP based powerfull animation library
 
@@ -63,6 +64,7 @@ Collection of useful resources and tools for making my life a bit easier
 - [WOW.js](https://mynameismatthieu.com/WOW/) - similiar to AOS tool, need license for commercial use
 - [Skrollr](https://github.com/Prinzhorn/skrollr) - old but not dead paralax scroll plugin using JS animation
 - [ScrollMagic](http://scrollmagic.io/) - powerful plugin for ur nut cracking scroll animations. it offers more customizability and extendability
+- [ScrollReveal](https://github.com/jlmakes/scrollreveal) - scroller with no dependencies and 3.3 kb ! (should try)
 
 ### WEB VR
 - [AFRAME](https://aframe.io/) - A web framework for building virtual reality experiences
