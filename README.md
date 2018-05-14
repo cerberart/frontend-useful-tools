@@ -85,3 +85,7 @@ Collection of useful resources and tools for making my life a bit easier
 - [Blendid](https://github.com/vigetlabs/blendid) - MASSIVE starter pack for Gulp/Yarn with build in tasks and tools
 - [Yeogurt](https://github.com/larsonjj/generator-yeogurt) - starter pack for Gulp 
 - [Yeoman Generator](https://github.com/yeoman/generator-webapp) - simple starter pack for Gulp
+
+# Creative Coding tools
+- [centiscript](https://github.com/satcy/centiscript) - Live coding environment for creating experimental graphics and sound
+- [2bbb](https://github.com/2bbb/bbb-canvas-js) - canvas library is influenced by centiscript / openframeworks
