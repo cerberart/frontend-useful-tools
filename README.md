@@ -86,11 +86,16 @@ Collection of useful resources and tools for making my life a bit easier
 - [Yeogurt](https://github.com/larsonjj/generator-yeogurt) - starter pack for Gulp 
 - [Yeoman Generator](https://github.com/yeoman/generator-webapp) - simple starter pack for Gulp
 
-# Creative Coding tools
+# Creative Coding tools/environments
 - [centiscript](https://github.com/satcy/centiscript) - Live coding environment for creating experimental graphics and sound
 - [2bbb](https://github.com/2bbb/bbb-canvas-js) - canvas library is influenced by centiscript / openframeworks
 
-# Algorithms (Learning/practising/having fun) 
+# Learning / Practising / Having Fun
+
+### Math resources
+- [MathIsFun](https://www.mathsisfun.com/) - full of math explanations and examples
+
+### Algorithms (Learning/practising/having fun) 
 - [Leetcode](https://leetcode.com/)
 - [Codefigts](https://codefights.com/)
 - [AdventOfCode](https://adventofcode.com/)
