@@ -89,3 +89,14 @@ Collection of useful resources and tools for making my life a bit easier
 # Creative Coding tools
 - [centiscript](https://github.com/satcy/centiscript) - Live coding environment for creating experimental graphics and sound
 - [2bbb](https://github.com/2bbb/bbb-canvas-js) - canvas library is influenced by centiscript / openframeworks
+
+# Algorithms (Learning/practising/having fun) 
+- [Leetcode](https://leetcode.com/)
+- [Codefigts](https://codefights.com/)
+- [AdventOfCode](https://adventofcode.com/)
+- [DailyCodingProblem](https://www.dailycodingproblem.com/)
+- [Careercup](https://www.careercup.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [ProjectEuler](https://projecteuler.net/)
+- [Topcoder](https://www.topcoder.com/)
