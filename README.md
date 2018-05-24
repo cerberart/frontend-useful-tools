@@ -94,6 +94,7 @@ Collection of useful resources and tools for making my life a bit easier
 
 ### Math resources
 - [MathIsFun](https://www.mathsisfun.com/) - full of math explanations and examples
+- [CodeByMath](http://www.codebymath.com/index.php/welcome/lesson_menu) - some examples of coding with Math including Arduino examples
 
 ### Algorithms (Learning/practising/having fun) 
 - [Leetcode](https://leetcode.com/)
