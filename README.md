@@ -38,6 +38,9 @@ Collection of useful resources and tools for making my life a bit easier
 ### Videos
 - [PLYR](https://plyr.io/) - simple HTML5, YouTube and Vimeo player
 
+### Drag'n'Drop
+- [Draggable](https://github.com/Shopify/draggable) -- great Javascript library with simple and very reliable API. waiting for the moment when i can use it
+
 # Mobile
 
 ### Tap/Touch handlers
