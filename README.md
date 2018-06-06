@@ -95,6 +95,9 @@ Collection of useful resources and tools for making my life a bit easier
 
 # Learning / Practising / Having Fun
 
+### Articles/Resources/New features to read
+- [WCGA 2.1 to recommendation](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/)
+
 ### Math resources
 - [MathIsFun](https://www.mathsisfun.com/) - full of math explanations and examples
 - [CodeByMath](http://www.codebymath.com/index.php/welcome/lesson_menu) - some examples of coding with Math including Arduino examples
