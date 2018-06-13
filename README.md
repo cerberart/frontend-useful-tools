@@ -112,3 +112,10 @@ Collection of useful resources and tools for making my life a bit easier
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [ProjectEuler](https://projecteuler.net/)
 - [Topcoder](https://www.topcoder.com/)
+
+
+# Design
+
+### Fonts
+- [BeautifulWebType](https://beautifulwebtype.com/) - collection of best google fonts typefaces
+- [FontPair](https://fontpair.co/) - help to pair google fonts together
