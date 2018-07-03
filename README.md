@@ -49,6 +49,11 @@ Collection of useful resources and tools for making my life a bit easier
 # Design
 - [ModularScale](http://www.modularscale.com/?16&px&1.5) - scale to use as font-size ruler
 
+# SVG
+
+### Morphing
+- [CSSTricks Many Tools](https://css-tricks.com/many-tools-shape-morphing/) - great article highlights various SVG Morphing libraries 
+
 # Animation
 
 ### Animation Frameworks/Libraries
