@@ -124,3 +124,4 @@ Collection of useful resources and tools for making my life a bit easier
 ### Fonts
 - [BeautifulWebType](https://beautifulwebtype.com/) - collection of best google fonts typefaces
 - [FontPair](https://fontpair.co/) - help to pair google fonts together
+- [V-fonts](https://v-fonts.com/) - collection of variable fonts
