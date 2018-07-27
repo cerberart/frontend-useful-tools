@@ -121,6 +121,9 @@ Collection of useful resources and tools for making my life a bit easier
 
 # Design
 
+### Colours
+- [Khroma](http://khroma.co/) - AI tool to define suitable color
+
 ### Fonts
 - [BeautifulWebType](https://beautifulwebtype.com/) - collection of best google fonts typefaces
 - [FontPair](https://fontpair.co/) - help to pair google fonts together
