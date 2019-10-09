@@ -90,6 +90,7 @@ Collection of useful resources and tools for making my life a bit easier
 - [Tone.js](https://github.com/Tonejs/Tone.js/) -  Web Audio framework for creating interactive music
 
 # Starter Packs 
+- [Static site boilerplate](http://staticsiteboilerplate.com/)
 - [Blendid](https://github.com/vigetlabs/blendid) - MASSIVE starter pack for Gulp/Yarn with build in tasks and tools
 - [Yeogurt](https://github.com/larsonjj/generator-yeogurt) - starter pack for Gulp 
 - [Yeoman Generator](https://github.com/yeoman/generator-webapp) - simple starter pack for Gulp
