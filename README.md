@@ -103,6 +103,7 @@ Collection of useful resources and tools for making my life a bit easier
 
 ### Articles/Resources/New features to read
 - [WCGA 2.1 to recommendation](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/)
+- https://dev.by/news/80-vr-ar
 
 ### Math resources
 - [MathIsFun](https://www.mathsisfun.com/) - full of math explanations and examples
